@@ -13,12 +13,12 @@ function formatTime(num) {
 function counter() {
   seconds += 1;
 
-  if (seconds > 60) {
+  if (seconds >= 60) {
     seconds = 0;
     minutes += 1;
   }
 
-  if (minutes > 60) {
+  if (minutes >= 60) {
     minutes = 0;
     hours += 1;
   }
