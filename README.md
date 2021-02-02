@@ -10,5 +10,5 @@ Abra o cmd na pasta que deseja descarregar o repositorio, após execute o comand
 
 ## Preview
 
-<img src="https://github.com/iSherlott/Timer/blob/main/screenshot/screenshot.PNG?raw=true">
 <a href="https://isherlott.github.io/Timer/">Preview da página</a> <br />
+<img src="https://github.com/iSherlott/Timer/blob/main/screenshot/screenshot.PNG?raw=true">
