@@ -7,3 +7,8 @@ Temporizador feito com HTML5 + CSS + Javascript; baseado na atividade do curso d
 
 Abra o cmd na pasta que deseja descarregar o repositorio, após execute o comando abaixo: <br />
 `git clone https://github.com/iSherlott/Timer.git`
+
+## Preview
+
+<img src="https://github.com/iSherlott/Timer/blob/main/screenshot/screenshot.PNG?raw=true">
+<a href="https://isherlott.github.io/Timer/">Preview da página</a> <br />
